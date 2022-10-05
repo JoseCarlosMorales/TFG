@@ -4,6 +4,10 @@ This is a fork of https://github.com/spring-projects/spring-petclinic to be used
 - Trimming several parts of the application to keep the example low
 - Reorganize some parts of the code according to best practices introduced in the course
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/72498908/194046439-2ec0bd03-e0ee-41a5-a43a-929baa4caa8f.png" width="350" title="hover text">
+</p>
+
 
 ## Running application locally
 Carpinteria Melerita Application is a [Spring Boot](https://spring.io/guides/gs/spring-boot) application built using [Maven](https://spring.io/guides/gs/maven/). You can build a jar file and run it from the command line:
